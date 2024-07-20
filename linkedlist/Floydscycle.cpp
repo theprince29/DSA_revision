@@ -1,0 +1,1 @@
+// uses of two pointer one moving twice as fast as the other one, the faster one is called the faster pointer and the other one is called the slow pointer
